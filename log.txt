@@ -1,0 +1,10 @@
+Log
+
+Неверный запрос sql: SELECTFROM news
+Дата: 01.08.20
+Файл: D:\prog\OSPanel\domains\php2hw05\App\Db.php
+Строка: 31
+Неверный запрос sql: SELECTFROM news
+Дата: 01.08.20
+Файл: D:\prog\OSPanel\domains\php2hw05\App\Db.php
+Строка: 31
